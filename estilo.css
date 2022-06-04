@@ -58,3 +58,60 @@ body{
     margin-right: auto;
     margin-top: 80px;
 }
+
+@media (min-width: 1100px) {
+
+    body{
+        width: max-content;
+    }
+
+    #FlashReverso {
+        height: 400px;
+        width: auto;
+        display: inline;
+        margin-right: 80px;
+        margin-left: 80px;
+    } 
+
+    #Zoom {
+        height: 400px;
+        width: auto;
+        display: inline;
+        margin-right: 80px;
+    } 
+
+    #Savitar {
+        height: 400px;
+        width: auto;
+        display: inline;
+        margin-right: 80px;
+    } 
+
+    #Devoe {
+        height: 400px;
+        width: auto;
+        display: inline;
+        margin-right: 80px;
+    } 
+
+    #Cicada {
+        height: 400px;
+        width: auto;
+        display: inline;
+        margin-right: 80px;
+    } 
+
+    #FlashDark{
+        height: 400px;
+        width: auto;
+        display: inline;
+        margin-right: 80px;
+    } 
+
+    #GoodSpeed {
+        height: 400px;
+        width: auto;
+        display: inline;
+        margin-right: 80px;
+    } 
+}
