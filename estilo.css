@@ -59,7 +59,7 @@ body{
     margin-top: 80px;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 500px) {
 
     body{
         width: max-content;
