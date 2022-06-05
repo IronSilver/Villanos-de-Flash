@@ -66,52 +66,66 @@ body{
     }
 
     #FlashReverso {
-        height: 400px;
+        height: 60vh;
         width: auto;
         display: inline;
         margin-right: 80px;
         margin-left: 80px;
+        margin-top: 18vh;
+        
     } 
 
     #Zoom {
-        height: 400px;
+        height: 60vh;
         width: auto;
         display: inline;
         margin-right: 80px;
+        margin-top: 18vh;
+        
     } 
 
     #Savitar {
-        height: 400px;
+        height: 60vh;
         width: auto;
         display: inline;
         margin-right: 80px;
+        margin-top: 18vh;
+        
     } 
 
     #Devoe {
-        height: 400px;
+        height: 60vh;
         width: auto;
         display: inline;
         margin-right: 80px;
+        margin-top: 18vh;
+       
     } 
 
     #Cicada {
-        height: 400px;
+        height: 60vh;
         width: auto;
         display: inline;
         margin-right: 80px;
+        margin-top: 18vh;
+        
     } 
 
     #FlashDark{
-        height: 400px;
+        height: 60vh;
         width: auto;
         display: inline;
         margin-right: 80px;
+        margin-top: 18vh;
+       
     } 
 
     #GoodSpeed {
-        height: 400px;
+        height: 60vh;
         width: auto;
         display: inline;
         margin-right: 80px;
+        margin-top: 18vh;
+        
     } 
 }
