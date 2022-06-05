@@ -70,9 +70,8 @@ body{
         width: auto;
         display: inline;
         margin-right: 80px;
-        margin-left: 80px;
-        margin-top: 18vh;
-        
+        margin-top: 20vh;
+       
     } 
 
     #Zoom {
@@ -80,7 +79,7 @@ body{
         width: auto;
         display: inline;
         margin-right: 80px;
-        margin-top: 18vh;
+        margin-top: 20vh;
         
     } 
 
@@ -89,8 +88,8 @@ body{
         width: auto;
         display: inline;
         margin-right: 80px;
-        margin-top: 18vh;
-        
+        margin-top: 20vh;
+     
     } 
 
     #Devoe {
@@ -98,8 +97,8 @@ body{
         width: auto;
         display: inline;
         margin-right: 80px;
-        margin-top: 18vh;
-       
+        margin-top: 20vh;
+        
     } 
 
     #Cicada {
@@ -107,7 +106,7 @@ body{
         width: auto;
         display: inline;
         margin-right: 80px;
-        margin-top: 18vh;
+        margin-top: 20vh;
         
     } 
 
@@ -116,16 +115,16 @@ body{
         width: auto;
         display: inline;
         margin-right: 80px;
-        margin-top: 18vh;
-       
+        margin-top: 20vh;
+        
     } 
 
     #GoodSpeed {
         height: 60vh;
         width: auto;
         display: inline;
-        margin-right: 80px;
-        margin-top: 18vh;
+        margin-top: 20vh;
+        
         
     } 
 }
